@@ -1,0 +1,32 @@
+set10 adding
+1652
+set10 removing
+1622
+set10 browsing
+39812
+set10 checking
+901
+set100 adding
+811
+set100 removing
+570
+set100 browsing
+37288
+set100 checking
+540
+set1000 adding
+751
+set1000 removing
+540
+set1000 browsing
+86835
+set1000 checking
+961
+set10000 adding
+931
+set10000 removing
+510
+set10000 browsing
+486700
+set10 checking
+661
