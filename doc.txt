@@ -1,32 +1,84 @@
-set10 adding
-1652
-set10 removing
-1622
-set10 browsing
-39812
-set10 checking
-901
-set100 adding
-811
-set100 removing
-570
-set100 browsing
-37288
-set100 checking
-540
-set1000 adding
-751
-set1000 removing
-540
-set1000 browsing
-86835
-set1000 checking
-961
-set10000 adding
-931
-set10000 removing
-510
-set10000 browsing
-486700
-set10 checking
-661
+set10 browsing 82659
+set10 removing 1923
+set10 adding 1352
+set10 checking 1201
+
+set100 browsing 54745
+set100 removing 450
+set100 checking 270
+set100 adding 600
+
+set1000 browsing 129472
+set1000 checking 360
+set1000 adding 630
+set1000 removing 931
+
+set10000 adding 1111
+set10000 checking 961
+set10000 removing 390
+set10000 browsing 521074
+
+list10 removing from random 4717
+list10 adding at the beginning 1171
+list10 adding at random place 1231
+list10 adding at the end 570
+list10 browsing using iterator 18539
+list10 removing from end 450
+list10 removing from beginning 570
+list10 browsing using indexes 1412
+
+list100 removing from beginning 360
+list100 removing from end 210
+list100 adding at the end 90
+list100 adding at the beginning 210
+list100 adding at random place 480
+list100 browsing using indexes 6129
+list100 removing from random 330
+list100 browsing using iterator 11327
+
+list1000 browsing using iterator 41344
+list1000 removing from random 510
+list1000 adding at random place 540
+list1000 removing from beginning 631
+list1000 adding at the end 60
+list1000 removing from end 240
+list1000 browsing using indexes 28995
+list1000 adding at the beginning 751
+
+list10000 browsing using indexes 193863
+list10000 adding at random place 4056
+list10000 removing from end 180
+list10000 removing from beginning 3575
+list10000 browsing using iterator 175083
+list10000 adding at the end 150
+list10000 removing from random 2133
+list10000 adding at the beginning 3665
+
+queue10 adding at the beginning 1352
+queue10 browsing using indexes 751
+queue10 removing from beginning 661
+queue10 browsing using iterator 31218
+queue10 removing from end 390
+queue10 adding at the end 450
+
+queue100 adding at the beginning 180
+queue100 browsing using iterator 21363
+queue100 browsing using indexes 1892
+queue100 removing from beginning 300
+queue100 adding at the end 210
+queue100 removing from end 2584
+
+queue1000 browsing using indexes 15173
+queue1000 removing from end 360
+queue1000 adding at the beginning 210
+queue1000 browsing using iterator 1232
+queue1000 adding at the end 180
+queue1000 removing from beginning 2313
+
+queue10000 removing from end 224240
+queue10000 adding at the end 180
+queue10000 browsing using indexes 26771
+queue10000 removing from beginning 631
+queue10000 adding at the beginning 150
+queue10000 browsing using iterator 751
+
